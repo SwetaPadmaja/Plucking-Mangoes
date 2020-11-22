@@ -13,7 +13,7 @@ var launchingForce=100;
 
 function preload()
 {
-	boy=loadImage("Plucking Mangoes/boy.png");
+	boy=loadImage("boy.png");
 }
 
 function setup() {
